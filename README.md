@@ -14,7 +14,7 @@ composer require fernandoMelo/extrato-cfe
 ## Quick Start
 
 ```php
-use ArleyOliveira\CFe\Extrato;
+use FernandoMelo\CFe\Extrato;
 
 $xml = __DIR__ . 'path_to_xml';
 

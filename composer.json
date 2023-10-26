@@ -1,12 +1,12 @@
 {
-  "name": "arleyoliveira/extrato-cfe",
+  "name": "fernandomelo/extrato-cfe",
   "description": "Cria extrato da CF-e para exportar em PDF e HTML",
-  "homepage": "https://github.com/ArleyOliveira/extrato-cfe",
+  "homepage": "https://github.com/fernandoMelo/extrato-cfe",
   "license": ["LGPL-3.0-or-later+", "GPL-3.0-or-later", "MIT"],
   "authors": [
     {
-      "name": "arley",
-      "email": "arley.msn@hotmail.com.com"
+      "name": "fernando",
+      "email": "melo.tads@gmail.com"
     }
   ],
   "require": {
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ArleyOliveira\\": "src"
+      "FernandoMelo\\": "src"
     }
   },
   "minimum-stability": "stable"

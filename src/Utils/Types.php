@@ -1,6 +1,6 @@
 <?php
 
-namespace ArleyOliveira\Utils;
+namespace FernandoMelo\Utils;
 
 abstract class Types
 {

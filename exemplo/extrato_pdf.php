@@ -1,7 +1,7 @@
 <?php
 require __DIR__ . '/../vendor/autoload.php';
 
-use ArleyOliveira\CFe\Extrato;
+use FernandoMelo\CFe\Extrato;
 
 $xml = __DIR__ . '/cfe.xml';
 
