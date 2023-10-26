@@ -1,13 +1,13 @@
 # Extrato CF-e
 
 ## Requirements
-* PHP version 7.1 or higher
+* PHP version 8.2 or higher
 
 
 ## Install with composer
 
 ```bash
-composer require arleyoliveira/extrato-cfe
+composer require fernandoMelo/extrato-cfe
 ```
 
 
